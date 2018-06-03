@@ -1,0 +1,58 @@
+
+An operating system is system software that manages computer hardware and software resources and provides common services for computer programs.
+An operating system is the program that, after being initially loaded into the computer by a boot program, manages all the other programs in a computer. The other programs are called applications or application programs. The application programs make use of the operating system by making requests for services through a defined application program interface. In addition, users can interact directly with the operating system through a user interface such as a command line or a graphical user interface.
+
+Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.
+
+For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware, although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it. Operating systems are found on many devices that contain a computer – from cellular phones and video game consoles to web servers and supercomputers.
+
+The dominant desktop operating system is Microsoft Windows with a market share of around 82.74%. macOS by Apple Inc. is in second place, and the varieties of Linux are collectively in third place .In the mobile sector, use in 2017 is up to 70% of Google's Android and according to third quarter 2016 data, Android on smartphones is dominant with 87.5 percent and a growth rate 10.3 percent per year, followed by Apple's iOS with 12.1 percent and a per year decrease in market share. Linux distributions are dominant in the server and supercomputing sectors. Other specialized classes of operating systems, such as embedded and real-time systems, exist for many applications.
+
+Types of operating systems
+Single- and multi-tasking
+
+A single-tasking system can only run one program at a time, while a multi-tasking operating system allows more than one program to be running in concurrency. This is achieved by time-sharing, where the available processor time is divided between multiple processes. These processes are each interrupted repeatedly in time slices by a task-scheduling subsystem of the operating system. Multi-tasking may be characterized in preemptive and co-operative types. In preemptive multitasking, the operating system slices the CPU time and dedicates a slot to each of the programs. Unix-like operating systems, such as Solaris and Linux—as well as non-Unix-like, such as AmigaOS—support preemptive multitasking. Cooperative multitasking is achieved by relying on each process to provide time to the other processes in a defined manner. 16-bit versions of Microsoft Windows used cooperative multi-tasking. 32-bit versions of both Windows NT and Win9x, used preemptive multi-tasking.
+Single- and multi-user
+
+Single-user operating systems have no facilities to distinguish users, but may allow multiple programs to run in tandem.A multi-user operating system extends the basic concept of multi-tasking with facilities that identify processes and resources, such as disk space, belonging to multiple users, and the system permits multiple users to interact with the system at the same time. Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources to multiple users.
+Distributed
+
+A distributed operating system manages a group of distinct computers and makes them appear to be a single computer. The development of networked computers that could be linked and communicate with each other gave rise to distributed computing. Distributed computations are carried out on more than one machine. When computers in a group work in cooperation, they form a distributed system.
+Templated
+
+In an OS, distributed and cloud computing context, templating refers to creating a single virtual machine image as a guest operating system, then saving it as a tool for multiple running virtual machines. The technique is used both in virtualization and cloud computing management, and is common in large server warehouses.
+
+
+Embedded operating systems are designed to be used in embedded computer systems. They are designed to operate on small machines like PDAs with less autonomy. They are able to operate with a limited number of resources. They are very compact and extremely efficient by design. Windows CE and Minix 3 are some examples of embedded operating systems.
+Real-time
+
+A real-time operating system is an operating system that guarantees to process events or data by a specific moment in time. A real-time operating system may be single- or multi-tasking, but when multitasking, it uses specialized scheduling algorithms so that a deterministic nature of behavior is achieved. An event-driven system switches between tasks based on their priorities or external events while time-sharing operating systems switch tasks based on clock interrupts
+Library
+
+A library operating system is one in which the services that a typical operating system provides, such as networking, are provided in the form of libraries and composed with the application and configuration code to construct a unikernel: a specialized, single address space, machine image that can be deployed to cloud or embedded environments.
+
+
+An operating system performs these services for applications:
+
+    In a multitasking operating system where multiple programs can be running at the same time, the operating system determines which applications should run in what order and how much time should be allowed for each application before giving another application a turn.
+    It manages the sharing of internal memory among multiple applications.
+    It handles input and output to and from attached hardware devices, such as hard disks, printers, and dial-up ports.
+    It sends messages to each application or interactive user about the status of operation and any errors that may have occurred.
+    It can offload the management of what are called batch jobs so that the initiating application is freed from this work.
+    On computers that can provide parallel processing, an operating system can manage how to divide the program so that it runs on more than one processor at a time.
+
+All major computer platforms require and sometimes include an operating system, and operating systems must be developed with different features to meet the specific needs of various form factors.
+
+Common desktop operating systems:
+
+Windows is Microsoft’s flagship operating system, the de facto standard for home and business computers. Introduced in 1985, the GUI-based OS has been released in many versions since then. The user-friendly Windows 95 was largely responsible for the rapid development of personal computing.
+
+Mac OS is the operating system for Apple's Macintosh line of personal computers and workstations.
+
+Linux is a Unix-like operating system that was designed to provide personal computer users a free or very low-cost alternative. Linux has a reputation as a very efficient and fast-performing system. 
+
+Windows operating systems have long dominated the market and continue to do so. As of August 2016, Windows systems had a market share of over 85 percent. In contrast, Mac OS was at a little over 6 percent and Linux was just over 2 percent. Nevertheless, Windows is losing market share from a long-held 90 percent and higher.
+
+A mobile OS allows smartphones, tablet PCs and other mobile devices to run applications and programs. Mobile operating systems include Apple iOS, Google Android, BlackBerry OS and Windows 10 Mobile. 
+
+An embedded operating system is specialized for use in the computers built into larger systems, such as cars, traffic lights, digital televisions, ATMs, airplane controls, point of sale terminals, digital cameras, GPS navigation systems, elevators, digital media receivers and smart meters.

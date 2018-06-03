@@ -1,0 +1,2850 @@
+
+
+
+Philosophy of AI 
+Goals of AI 
+
+What is Artificial Intelligence? 
+
+Since the invention of computers or machines, their capability to perform various tasks went 
+on growing exponentially. Humans have developed the power of computer systems in terms 
+of their diverse working domains, their increasing speed, and  reducing size with respect to 
+time.  
+A branch of Computer Science named Artificial Intelligence pursues creating the computers or 
+machines as intelligent as human beings. 
+According  to  the  father  of  Artificial  Intelligence  John  McCarthy,  it  is  “The  science  and 
+engineering of making intelligent machines, especially intelligent computer programs”. 
+Artificial Intelligence is a way of making a computer, a computer-controlled robot, or a 
+software think intelligently, in the similar manner the intelligent humans think.  
+AI is accomplished by studying how human brain thinks, and how humans learn, decide, and 
+work while trying to solve a problem, and then using the outcomes of this study as a basis of 
+developing intelligent software and systems. 
+While  exploiting  the  power  of  the  computer  systems,  the  curiosity  of  human,  lead  him  to 
+wonder, “Can a machine think and behave like humans do?”  
+Thus,  the  development  of  AI  started  with  the  intention  of  creating  similar  intelligence  in 
+machines that we find and regard high in humans.    
+
+ 
+ 
+ 
+
+  To  Create  Expert  Systems:  The  systems  which  exhibit  intelligent  behavior,  learn, 
+  To  Implement  Human  Intelligence  in  Machines:  Creating  systems  that 
+
+demonstrate, explain, and advice its users. 
+understand, think, learn, and behave like humans. 
+
+1.  Overview of AI  
+
+ 
+
+  
+ 
+
+
+
+
+
+ 
+
+What Contributes to AI? 
+
+Programming Without and With AI  
+A  computer  program  without  AI  can 
+answer the specific questions it is meant 
+to solve. 
+Modification  in  the  program  leads  to 
+change in its structure. 
+Modification is not quick and easy. It may 
+lead to affecting the program adversely. 
+
+The programming without and with AI is different in following ways: 
+
+Artificial  intelligence  is  a  science  and  technology  based  on  disciplines  such  as  Computer 
+Science, Biology, Psychology, Linguistics, Mathematics, and Engineering. A major thrust of AI 
+is  in  the  development  of  computer  functions  associated  with  human  intelligence,  such  as 
+reasoning, learning, and problem solving. 
+Out of the following areas, one or multiple areas can contribute to build an intelligent system. 
+
+Programming Without AI 
+
+ 
+
+Programming With AI 
+A  computer  program  with  AI  can  answer  the 
+generic questions it is meant to solve. 
+AI programs can absorb new modifications by 
+putting  highly 
+of 
+information  together.  Hence  you  can  modify 
+even a minute piece of information of program 
+without affecting its structure. 
+independent 
+Quick and Easy program modification. 
+
+  
+ 
+pieces 
+ 
+
+
+
+
+ 
+
+What is AI Technique? 
+Applications of AI 
+
+AI has been dominant in various fields such as: 
+
+In the real world, the knowledge has some unwelcomed properties: 
+
+AI Technique is a manner to organize and use the knowledge efficiently in such a way that: 
+AI techniques elevate the speed of execution of the complex program it is equipped with.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  Gaming 
+by humans.  
+the users.  
+For example,  
+
+  Expert Systems 
+the users.  
+  Vision Systems 
+For example,  
+
+Its volume is huge, next to unimaginable. 
+It is not well-organized or well-formatted. 
+It keeps changing constantly. 
+It should be perceivable by the people who provide it. 
+It should be easily modifiable to correct errors. 
+  Natural Language Processing 
+
+It should be useful in many situations though it is incomplete or inaccurate. 
+AI plays crucial role in strategic games such as chess, poker, tic-tac-toe, etc., where 
+machine can think of large number of possible positions based on heuristic knowledge.   
+It is possible to interact with the computer that understands natural language spoken 
+There  are  some  applications  which  integrate  machine,  software,  and  special 
+information to impart reasoning and advising. They provide explanation and advice to 
+These systems understand, interpret, and comprehend visual input on the computer. 
+o  A  spying  aeroplane  takes  photographs  which  are  used  to  figure  out  spatial 
+o  Doctors use clinical expert system to diagnose the patient. 
+o  Police use computer software that can  recognize the face of criminal with the 
+
+information or map of the areas. 
+stored portrait made by forensic artist. 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+History of AI 
+
+Here is the history of AI during 20th century:  
+
+  Speech Recognition 
+  Handwriting Recognition 
+ 
+  Intelligent Robots 
+
+Year 
+1923 
+1943 
+1945 
+1950 
+1956 
+1958 
+1964 
+1965 
+1969 
+
+Some intelligent systems are capable of hearing and comprehending the language in 
+terms of sentences and their meanings while a human talks to it. It can handle different 
+accents, slang words, noise in the background, change in human’s noise due to cold, 
+etc.  
+ 
+The handwriting recognition software reads the text written on paper by a pen or on 
+screen by a stylus. It can recognize the shapes of the letters and convert it into editable 
+text. 
+Robots are able to perform the tasks given by a human. They have sensors to detect 
+physical data from the real world such as light, heat, temperature, movement, sound, 
+bump,  and  pressure.  They  have  efficient  processors,  multiple  sensors  and  huge 
+memory,  to  exhibit  intelligence.  In  addition,  they  are  capable  of  learning  from  their 
+mistakes and they can adapt to the new environment. 
+
+Foundations for neural networks laid. 
+
+Karel Čapek’s play named “Rossum's Universal Robots” (RUR) opens in London, 
+first use of the word "robot" in English. 
+Isaac Asimov, a Columbia University alumni, coined the term Robotics. 
+Alan Turing introduced Turing Test for evaluation of intelligence and published 
+Computing  Machinery  and  Intelligence.  Claude  Shannon  published  Detailed 
+Analysis of Chess Playing as a search. 
+John McCarthy coined the term Artificial Intelligence. Demonstration of the first 
+running AI program at Carnegie Mellon University. 
+John McCarthy invents LISP programming language for AI. 
+Danny  Bobrow's  dissertation  at  MIT  showed  that  computers  can  understand 
+natural language well enough to solve algebra word problems correctly. 
+Joseph Weizenbaum at MIT built ELIZA, an interactive problem that carries on 
+a dialogue in English. 
+Scientists at Stanford Research Institute Developed Shakey, a robot, equipped 
+with locomotion, perception, and problem solving. 
+
+Milestone / Innovation 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+ 
+
+1973 
+1979 
+1985 
+ 
+1990 
+1997 
+2000 
+
+Major advances in all areas of AI:  
+  Case-based reasoning  
+  Multi-agent planning  
+  Data mining, Web Crawler 
+  Vision, Virtual Reality  
+
+The Assembly Robotics group at Edinburgh University built Freddy, the Famous 
+Scottish Robot, capable of using vision to locate and assemble models. 
+The first computer-controlled autonomous vehicle, Stanford Cart, was built. 
+Harold Cohen created and demonstrated the drawing program, Aaron. 
+The  Deep  Blue  Chess  Program  beats  the  then  world  chess  champion,  Garry 
+Kasparov. 
+Interactive robot pets become commercially available. MIT displays  Kismet, a 
+robot with a face that expresses emotions. The robot Nomad explores remote 
+regions of Antarctica and locates meteorites. 
+
+  Scheduling  
+  Games 
+
+  Significant demonstrations in machine learning  
+  natural language understanding and translation 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+What is Intelligence? 
+Types of Intelligence 
+Musical intelligence 
+Spatial intelligence 
+Bodily-Kinesthetic 
+intelligence 
+
+While  studying  artificially  intelligence,  you  need  to  know  what  intelligence  is.  This  chapter 
+covers Idea of intelligence, types, and components of intelligence.  
+The ability of a system to calculate, reason, perceive relationships and analogies, learn from 
+experience,  store  and  retrieve  information  from  memory,  solve  problems,  comprehend 
+complex ideas, use natural language fluently, classify, generalize, and adapt new situations. 
+As described by Howard Gardner, an American developmental psychologist, the Intelligence 
+comes in multifold: 
+
+Intelligence 
+Linguistic 
+intelligence 
+Musical intelligence 
+Logical-
+mathematical 
+intelligence 
+Spatial intelligence 
+Bodily-Kinesthetic 
+intelligence 
+Intra-personal 
+intelligence 
+
+2.  IntelligenT Systems 
+The ability to speak, recognize, and use mechanisms 
+of  phonology  (speech  sounds),  syntax  (grammar), 
+and semantics (meaning). 
+The  ability  to  create,  communicate  with,  and 
+understand meanings made of sound, understanding 
+of pitch, rhythm. 
+The ability of use and understand relationships in the 
+absence of action or objects. Understanding complex 
+and abstract ideas. 
+The ability to perceive visual or spatial information, 
+change  it,  and  re-create  visual  images  without 
+reference to the objects,  construct 3D images, and 
+to move and rotate them. 
+The  ability  to  use  complete  or  part  of  the  body  to 
+solve problems or fashion products, control over fine 
+and coarse motor skills, and manipulate the objects. 
+The ability to distinguish among one’s own feelings, 
+intentions, and motivations. 
+
+Description 
+ 
+
+  
+Example 
+Narrators, Orators 
+Musicians, 
+Singers, 
+Composers 
+Mathematicians, 
+Scientists 
+Map 
+Astronauts, 
+Physicists 
+readers, 
+Players, Dancers 
+Gautam Buddha 
+ 
+
+
+figure 7_2 Artificial_intelligence_1_tutorial
+
+
+ 
+ 
+
+What is Intelligence Composed of? 
+The intelligence is intangible. It is composed of: 
+Let us go through all the components briefly: 
+It  conducts  specific  observations  to  makes 
+broad general statements. 
+Even  if  all  of  the  premises  are  true  in  a 
+statement, inductive reasoning allows for the 
+conclusion to be false. 
+
+You can say a machine or a system is artificially intelligent when it is equipped with at least 
+one and at most all intelligences in it.  
+
+Interpersonal 
+intelligence 
+
+1.  Reasoning 
+2.  Learning 
+3.  Problem Solving 
+4.  Perception 
+5.  Linguistic Intelligence 
+ 
+
+1.  Reasoning: It is the set of processes that enables us to provide basis for judgement, 
+
+making decisions, and prediction. There are broadly two types: 
+
+Inductive Reasoning 
+
+The ability to recognize and make distinctions among 
+other people’s feelings, beliefs, and intentions. 
+
+ 
+
+Deductive Reasoning 
+It  starts  with  a  general  statement  and 
+examines the possibilities to reach a specific, 
+logical conclusion. 
+If  something  is  true  of  a  class  of  things  in 
+general, it is also true for all members of that 
+class. 
+
+  
+Mass 
+Communicators, 
+Interviewers 
+ 
+ 
+
+
+
+
+ 
+ 
+
+Example: 
+“Nita is a teacher.  
+All teachers are studious.  
+Therefore, Nita is studious.” 
+
+2.  Learning: It is the activity of gaining knowledge or skill by studying, practising, being 
+taught, or experiencing something. Learning enhances the awareness of the subjects 
+of the study.  
+    The  ability  of  learning  is  possessed  by  humans,  some  animals,  and  AI-enabled   
+o  Auditory Learning: It is learning by listening and hearing. For example, students 
+o  Episodic Learning: To learn by remembering sequences of events that  one has 
+o  Motor  Learning:  It  is  learning  by  precise  movement  of  muscles.  For  example, 
+o  Observational Learning: To learn by watching and imitating others. For example, 
+o  Perceptual Learning: It is learning to recognize stimuli that one has seen before. 
+o  Relational Learning:  It involves learning to  differentiate among various stimuli 
+on the basis of relational properties, rather than absolute properties. For Example, 
+Adding ‘little less’ salt at the time of cooking potatoes that came up salty last time, 
+when cooked with adding say a tablespoon of salt.  
+ 
+o  Spatial  learning:  It  is  learning  through  visual  stimuli  such  as  images,  colors, 
+maps,  etc.  For  Example,  A  person  can  create  roadmap  in  mind  before  actually 
+following the road.  
+ 
+o  Stimulus-Response  Learning:  It  is  learning  to  perform  a  particular  behavior 
+when a certain stimulus is present. For example, a dog  raises its ear  on hearing 
+doorbell.  
+3.  Problem  solving:  It  is  the  process  in  which  one  perceives  and  tries  to  arrive  at  a 
+desired  solution  from  a  present  situation  by  taking  some  path,  which  is  blocked  by 
+known or unknown hurdles. 
+Problem solving also includes decision making, which is the process of selecting the 
+best  suitable  alternative  out  of  multiple  alternatives  to  reach  the  desired  goal  are 
+available.  
+4.  Perception:  It  is  the  process  of  acquiring,  interpreting,  selecting,  and  organizing 
+
+sensory information. 
+
+systems. Learning is categorized as: 
+listening to recorded audio lectures. 
+ 
+picking objects, Writing, etc. 
+ 
+
+witnessed or experienced. This is linear and orderly. 
+ 
+child tries to learn by mimicking her parent.   
+ 
+For example, identifying and classifying objects and situations. 
+ 
+
+ 
+
+Example:  
+"All  women  of  age  above  60  years  are 
+grandmothers.  
+Shalini is 65 years.  
+Therefore, Shalini is a grandmother."  
+
+  
+ 
+
+
+
+
+ 
+
+Difference between Human and Machine Intelligence 
+
+distorted; whereas the machines cannot correctly. 
+
+Perception presumes sensing. In humans, perception is aided by sensory organs. In 
+the  domain  of  AI,  perception  mechanism  puts  the  data  acquired  by  the  sensors 
+together in a meaningful manner.  
+5.  Linguistic Intelligence: It is one’s ability to use, comprehend, speak, and write the 
+verbal and written language. It is important in interpersonal communication. 
+  Humans perceive by patterns whereas the machines perceive by set of rules and data. 
+  Humans  store  and  recall  information  by  patterns,  machines  do  it  by  searching 
+algorithms. For example, the number 40404040 is easy to remember, store and recall 
+as its pattern is simple. 
+ 
+  Humans  can  figure  out  the  complete  object  even  if  some  part  of  it  is  missing  or 
+
+ 
+
+  
+ 
+
+
+figure 10_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+The  domain  of  artificial  intelligence  is  huge  in  breadth  and  width.  While  proceeding,  we 
+consider the broadly common and prospering research areas in the domain of AI: 
+Speech and Voice Recognition 
+These both terms are common in robotics, expert systems and natural language processing. 
+Though these terms are used interchangeably, their objectives are different. 
+
+The 
+at 
+understanding  and  comprehending  WHAT 
+was spoken. 
+It  is  used  in  hand-free  computing,  map  or 
+menu navigation 
+Machine  does  not  need  training  as  it  is  not 
+speaker dependent. 
+
+speech 
+
+Speech Recognition 
+
+recognition 
+
+3.  Research Areas of AI 
+
+aims 
+
+ 
+
+Voice Recognition 
+The  objective  of  voice  recognition  is  to 
+recognize WHO is speaking. 
+It analyzes person’s tone, voice pitch, and 
+accent, etc., to identify a person. 
+The recognition system needs training as it 
+is person-oriented. 
+
+  
+ 
+ 
+
+
+figure 11_2 Artificial_intelligence_1_tutorial
+figure 11_3 Artificial_intelligence_1_tutorial
+figure 11_4 Artificial_intelligence_1_tutorial
+
+
+Working of Speech and Voice Recognition Systems  
+The user input spoken at a microphone goes to sound card of the system. The converter turns 
+the analog signal into equivalent digital signal for the speech processing. The database is used 
+to compare the patterns to recognize the words. Finally, a reverse feedback is given to the 
+database. 
+This source-language text becomes input to the Translation Engine, which converts it to the 
+target language text. They are supported with interactive GUI, large database of vocabulary 
+etc. 
+There is a large array of applications where AI is serving common people in their day-to-day 
+lives: 
+
+1 
+2 
+3 
+ 
+
+Speaker  independent  Speech  Recognition 
+systems are difficult to develop. 
+Real Life Applications of Research Areas 
+
+Sr. No. 
+
+Expert Systems 
+ 
+Examples: 
+systems 
+
+Natural Language Processing 
+ 
+Examples:  Google  Now 
+recognition, Automatic voice output 
+
+Neural Networks 
+ 
+Examples:  Pattern  recognition  systems  such  as 
+face recognition, character recognition, handwriting 
+recognition. 
+
+Research Area 
+Flight-tracking 
+
+systems,  Clinical 
+feature, 
+
+ 
+
+Speaker-dependent  Speech  Recognition 
+systems are comparatively easy to develop. 
+
+speech 
+
+Real Life Application  
+ 
+
+  
+ 
+ 
+ 
+ 
+
+
+figure 12_2 Artificial_intelligence_1_tutorial
+figure 12_3 Artificial_intelligence_1_tutorial
+
+
+
+Task Classification of AI 
+
+The domain of AI is classified into Formal tasks, Mundane tasks, and Expert tasks.  
+
+4 
+5 
+ 
+
+Robotics 
+ 
+Examples: Industrial robots for moving, spraying, 
+painting,  precision  checking,  drilling,  cleaning, 
+coating, carving etc. 
+Fuzzy Logic 
+ 
+Examples:  Consumer  electronics,  automobiles, 
+etc. 
+
+ 
+
+ 
+  
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+
+ 
+Humans  learn  mundane  (ordinary)  tasks  since  their  birth.  They  learn  by  perception, 
+speaking, using language, and locomotives. They learn Formal Tasks and Expert Tasks later, 
+in that order.  
+For humans, the mundane tasks are easiest to learn. The same was considered true before 
+trying to implement mundane tasks in machines. Earlier, all work of AI was concentrated in 
+the mundane task domain.  
+Later,  it  turned  out  that  the  machine  requires  more  knowledge,  complex  knowledge 
+representation, and complicated algorithms for handling mundane tasks. This is the reason 
+why  AI  work  is  more  prospering  in  the  Expert  Task  domain  now,  as  the  expert  task 
+domain needs expert knowledge without common sense, which can be easier to represent and 
+handle.   
+
+Perception 
+Common Sense 
+Reasoning 
+Planning 
+Robotics 
+
+Mundane (Ordinary) Tasks 
+Natural Language Processing 
+
+  Computer Vision 
+  Speech, Voice 
+Natural Language Processing 
+  Understanding 
+  Language Generation 
+  Language Translation 
+Common Sense 
+  Locomotive 
+
+Task Domains of Artificial Intelligence 
+
+ 
+ 
+
+Formal Tasks 
+  Mathematics 
+  Geometry 
+  Logic 
+ 
+Integration 
+Differentiation 
+Games 
+  Go 
+  Chess (Deep Blue) 
+  Checkers 
+Verification 
+Theorem Proving 
+
+ 
+ 
+ 
+
+Expert Tasks 
+  Engineering 
+  Fault finding 
+  Manufacturing 
+and 
+  Monitoring 
+Scientific Analysis 
+ 
+Financial Analysis 
+Medical Diagnosis 
+Creativity 
+ 
+
+  
+ 
+
+
+figure 14_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Agents Terminology 
+
+What are Agent and Environment? 
+
+An  AI  system  is  composed  of  an  agent  and  its  environment.  The  agents  act  in  their 
+environment. The environment may contain other agents. 
+An agent is anything that can perceive its environment through sensors and acts upon that 
+environment through effectors.  
+
+  Percept: It is agent’s perceptual inputs at a given instance.  
+
+  A human agent has sensory organs such as eyes, ears, nose, tongue and skin parallel 
+to the sensors, and other organs such as hands, legs, mouth, for effectors.  
+  A  robotic  agent  replaces  cameras  and  infrared  range  finders  for  the  sensors,  and 
+  A software agent has encoded bit strings as its programs and actions. 
+  Performance Measure of Agent: It is the criteria, which determines how successful 
+  Behavior of Agent: It is the action that agent performs after any given sequence of 
+  Percept Sequence: It is the history of all that an agent has perceived till date.  
+
+an agent is. 
+percepts. 
+
+various motors and actuators for effectors.  
+
+4.  Agents and Environments 
+
+ 
+
+  
+ 
+ 
+
+
+
+
+ 
+
+Rationality 
+
+What is Ideal Rational Agent? 
+The Structure of Intelligent Agents 
+Agent’s structure can be viewed as: 
+Simple Reflex Agents 
+
+Rationality of an agent depends on the following:  
+The Structure of Intelligent Agents 
+
+ 
+ 
+
+  Agent Function: It is a map from the precept sequence to an action. 
+Rationality  is  nothing  but  status  of  being  reasonable,  sensible,  and  having  good  sense  of 
+judgment. 
+Rationality is concerned with expected actions and results depending upon what the agent has 
+perceived.  Performing  actions  with  the  aim  of  obtaining  useful  information  is  an  important 
+part of rationality. 
+An ideal rational agent is the one, which is capable of doing expected actions to maximize its 
+performance measure, on the basis of: 
+1.  The performance measures, which determine the degree of success.  
+2.  Agent’s Percept Sequence till now.  
+3.  The agent’s prior knowledge about the environment.  
+4.  The actions that the agent can carry out.  
+A rational agent always performs right action, where the right action means the action that 
+causes the agent to be most successful in the given percept sequence. The problem the agent 
+solves  is  characterized  by  Performance  Measure,  Environment,  Actuators,  and  Sensors 
+(PEAS). 
+• Architecture = the machinery that an agent executes on. 
+• Agent Program = an implementation of an agent function. 
+  They choose actions only based on the current percept.  
+  They are rational only if a correct decision is made only on the basis of current precept.  
+Condition-Action Rule – It is a rule that maps a state (condition) to an action. 
+
+Its percept sequence  
+Its built-in knowledge base 
+
+• Agent = Architecture + Agent Program 
+  Their environment is completely observable. 
+
+ 
+
+  
+ 
+
+
+
+
+
+ 
+ 
+
+Model: knowledge about “how the things happen in the world”. 
+Updating state requires the information about 
+
+Model-Based Reflex Agents  
+They use a model of the world to choose their actions. They maintain an internal state.  
+Internal State: It is a representation of unobserved aspects of current state depending on 
+percept history. 
+
+  How the world evolves. 
+
+  How the agent’s actions affect the world. 
+
+ 
+
+  
+ 
+ 
+
+
+
+figure 17_3 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Goal-Based Agents 
+Utility-Based Agents  
+
+They choose their actions in order to achieve goals. Goal-based approach is more flexible than 
+reflex agent since the knowledge supporting a decision is explicitly modeled, thereby allowing 
+for modifications. 
+
+  Goal: It is the description of desirable situations. 
+They choose actions based on a preference (utility) for each state. 
+
+ 
+
+  
+ 
+ 
+ 
+
+
+figure 18_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Goals are inadequate when: 
+The Nature of Environments 
+
+  There are conflicting goals only some of which can be achieved. 
+Turing Test  
+The success of an intelligent behavior of a system can be measured with Turing Test.  
+
+  Goals have some uncertainty of being achieved and one needs to weigh likelihood of 
+Some programs operate in the entirely artificial environment confined to keyboard input, 
+database, computer file systems and character output on a screen. 
+In  contrast,  some  software  agents  (software  robots  or  softbots)  exist  in  rich,  unlimited 
+softbots domains. The simulator has a very detailed, complex environment. The software 
+agent needs to choose from a long array of actions in real time. A softbot designed to scan 
+the online preferences of the customer and show interesting items to the customer works in 
+the real as well as an artificial environment. 
+The  most  famous  artificial  environment  is  the  Turing  Test  environment,  in  which  one 
+real  and  other  artificial  agents  are  tested  on  equal  ground.  This  is  a  very  challenging 
+environment as it is highly difficult for a software agent to perform as well as a human. 
+Turing Test  
+The success of an intelligent behavior of a system can be measured with Turing Test.  
+Two persons and a machine to be evaluated participate in the test. Out of the two persons, 
+one plays the role of the tester. Each of them sits in different rooms. The tester is unaware of 
+who is machine and who is a human.  He interrogates the questions by typing and sending 
+them to both intelligences, to which he receives typed responses.  
+
+success against the importance of a goal. 
+ 
+
+ 
+
+  
+ 
+ 
+
+
+
+
+ 
+
+Properties of Environment 
+
+The environment has multifold properties: 
+
+This test aims at fooling the tester. If the tester fails to determine machine’s response from 
+the human response, then the machine is said to be intelligent.   
+
+  Discrete  /  Continuous:  If  there  are  a  limited  number  of  distinct,  clearly  defined, 
+states of the environment, the environment is discrete (For example, chess); otherwise 
+it is continuous (For example, driving).  
+ 
+  Observable / Partially Observable: If it is possible to determine the complete state 
+of the environment at each time point from the percepts it is observable; otherwise it 
+is only partially observable.  
+ 
+  Static / Dynamic: If the environment does not change while an agent is acting, then 
+  Single agent / Multiple agents: The environment may contain other agents which 
+  Accessible vs. inaccessible: If the agent’s sensory apparatus can have access to the 
+complete state of the environment, then the environment is accessible to that agent. 
+ 
+  Deterministic  vs.  Non-deterministic:  If  the  next  state  of  the  environment  is 
+completely  determined  by  the  current  state  and  the  actions  of  the  agent,  then  the 
+environment is deterministic; otherwise it is non-deterministic. 
+ 
+  Episodic vs. Non-episodic: In an episodic environment, each episode consists of the 
+agent perceiving and then acting. The quality of its action depends just on the episode 
+itself.  Subsequent  episodes  do  not  depend  on  the  actions  in  the  previous  episodes. 
+Episodic  environments  are  much  simpler  because  the  agent  does  not  need  to  think 
+ahead. 
+
+it is static; otherwise it is dynamic. 
+ 
+
+may be of the same or different kind as that of the agent. 
+ 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+Requirements –  
+
+Search Terminology 
+
+Single Agent Pathfinding Problems  
+Problem Instance: It is Initial state + Goal state 
+Brute-Force Search Strategies 
+
+Time Complexity: The maximum number of nodes that are created. 
+Admissibility: A property of an algorithm to always find an optimal solution. 
+Branching Factor: The average number of child nodes in the problem space graph. 
+Depth: Length of the shortest path from initial state to goal state. 
+
+Searching is the universal technique of problem solving in AI.  There are some single-player 
+games such as tile games, Sudoku, crossword, etc. The search algorithms help you to search 
+for a particular position in such games.  
+The games such as 3X3 eight-tile, 4X4 fifteen-tile, and 5X5 twenty four tile puzzles are single-
+agent-path-finding challenges. They consist of a matrix of tiles with a blank tile. The player is 
+required to arrange the tiles by sliding a tile either vertically or horizontally into a blank space 
+with the aim of accomplishing some objective.  
+The other examples  of single agent pathfinding problems are Travelling Salesman Problem, 
+Rubik’s Cube, and Theorem Proving. 
+Problem Space: It is the environment in which the search takes place. (A set of states and 
+set of operators to change those states) 
+Problem  Space  Graph:  It  represents  problem  state.  States  are  shown  by  nodes  and 
+operators are shown by edges. 
+Depth of a problem: Length of a shortest path or shortest sequence of operators from Initial 
+State to goal state.  
+Space Complexity: The maximum number of nodes that are stored in memory. 
+Admissibility: A property of an algorithm to always find an optimal solution. 
+Branching Factor: The average number of child nodes in the problem space graph. 
+They are most simple, as they do not need any domain-specific knowledge. They work fine 
+with small number of possible states. 
+
+  State description 
+
+5.  Popular Search Algorithms 
+
+ 
+
+  
+ 
+
+
+
+
+
+ 
+
+The total no of nodes created in worst case is b + b2 + b3 + … + bd. 
+Its complexity depends on the number of nodes. It can check duplicate nodes. 
+Its complexity depends on the number of paths. It cannot check duplicate nodes. 
+
+Breadth-First Search 
+It starts from the root node, explores the neighboring nodes first and moves towards the next 
+level  neighbors.  It  generates  one  tree  at  a  time  until  the  solution  is  found.  It  can  be 
+implemented  using  FIFO  queue  data  structure.  This  method  provides  shortest  path  to  the 
+solution.  
+If branching factor (average number of child nodes for a given node) = b and depth = d, 
+then number of nodes at level d = bd. 
+Disadvantage: Since each level of nodes is saved for creating next one, it consumes a lot of 
+memory space. Space requirement to store nodes is exponential. 
+Its complexity depends on the number of nodes. It can check duplicate nodes. 
+Depth-First Search 
+It is implemented in recursion with LIFO stack data structure. It creates the same set of nodes 
+as Breadth-First method, only in the different order. 
+As the nodes on the single path are stored in each iteration from root to leaf node, the space 
+requirement  to  store  nodes  is  linear.  With  branching  factor  b  and  depth  as  m,  the  storage 
+space is bm. 
+Disadvantage:  This  algorithm  may  not  terminate  and  go  on  infinitely  on  one  path.  The 
+solution to this issue is to choose a cut-off depth. If the ideal cut-off is d, and if chosen cut-
+off  is  lesser  than  d,  then  this  algorithm  may  fail.  If  chosen  cut-off  is  more  than  d,  then 
+execution time increases. 
+Its complexity depends on the number of paths. It cannot check duplicate nodes. 
+
+ 
+
+  A set of valid operators 
+  Goal state description 
+
+Initial state 
+
+ 
+
+ 
+
+  
+ 
+
+
+
+
+
+ 
+ 
+
+It explores paths in the increasing order of cost.  
+
+Bidirectional Search 
+It searches forward from initial state and backward from goal state till both meet to identify 
+a common state.  
+The path from initial state is  concatenated with the inverse path  from  the goal state.  Each 
+search is done only up to half of the total path. 
+Uniform Cost Search 
+Sorting is done in increasing cost of the path to a node. It always expands the least cost node. 
+It is identical to Breadth First search if each transition has the same cost. 
+Disadvantage:  There  can be multiple long paths with the cost ≤  C*. Uniform Cost  search 
+must explore them all. 
+Iterative Deepening Depth-First Search 
+It performs depth-first search to level 1, starts over, executes a complete depth-first search 
+to level 2, and continues in such way till the solution is found.  
+It never creates a node until all lower nodes are generated. It only saves a stack of nodes. 
+The algorithm ends when it finds a solution at depth d. The number of nodes created at depth 
+d is bd and at depth d-1 is bd-1. 
+
+ 
+
+  
+ 
+ 
+
+
+
+
+
+ 
+
+Informed (Heuristic) Search Strategies 
+
+Comparison of Various Algorithms Complexities 
+Let us see the performance of algorithms based on various criteria:  
+
+To  solve  large  problems  with  large  number  of  possible  states,  problem-specific  knowledge 
+needs to be added to increase the efficiency of search algorithms. 
+Heuristic Evaluation Functions 
+They calculate the cost of optimal path between two states.  A heuristic function for sliding-
+tiles games is computed by counting number of moves that each tile makes from its goal state 
+and adding these number of moves for all tiles. 
+Pure Heuristic Search 
+It expands nodes in the order of their heuristic values. It creates two lists, a closed list for the 
+already expanded nodes and an open list for the created but unexpanded nodes. 
+In each iteration, a node with a minimum heuristic value is expanded, all its child nodes are 
+created and placed in the closed list. Then, the heuristic function is applied to the child nodes 
+and they are placed in the open list according to their heuristic value. The shorter paths are 
+saved and the longer ones are disposed.  
+
+Time 
+Space 
+
+Criterion 
+Optimality 
+Completeness 
+
+Breadth 
+First 
+bd 
+bd 
+Y 
+Y 
+
+Depth 
+First 
+bm 
+bm 
+N 
+N 
+
+Bidirectional 
+b d/2 
+b d/2 
+Y 
+Y 
+ 
+
+Uniform 
+Cost 
+Iterative 
+Deepening 
+bd 
+bd 
+Y 
+Y 
+
+  
+ 
+Iterative 
+Deepening 
+bd 
+bd 
+Y 
+Y 
+ 
+
+
+
+
+ 
+
+loop  
+end 
+
+f(n) = g(n) + h(n), where  
+Local Search Algorithms   
+inputs: problem, a problem  
+local variables: current, a node  
+                      neighbor, a node  
+         return State[current]  
+         current ← neighbor  
+
+A* Search 
+It  is  best-known  form  of  Best  First  search.  It  avoids  expanding  paths  that  are  already 
+expensive, but expands most promising paths first.  
+Greedy Best First Search  
+It expands the node that is estimated to be closest to goal. It expands nodes based on f(n) = 
+h(n). It is implemented using priority queue.  
+They  start  from  a  prospective  solution  and  then move  to  a neighboring solution.  They  can 
+return a valid solution even if it is interrupted at any time before they end. 
+Hill-Climbing Search  
+It is an iterative algorithm that starts with an arbitrary solution to a problem and attempts to 
+find a better solution by changing a single element of the solution incrementally. If the change 
+produces a better solution, an incremental change is taken as a new solution. This process is 
+repeated until there are no further improvements. 
+function Hill-Climbing (problem), returns a state that is a local maximum. 
+
+• g(n) the cost (so far) to reach the node  
+current ←Make_Node(Initial-State[problem])  
+    do neighbor ← a highest_valued successor of current  
+         if Value[neighbor] ≤ Value[current] then  
+
+• h(n) estimated cost to get from the node to the goal  
+Disadvantage: It can get stuck in loops. It is not optimal. 
+current ←Make_Node(Initial-State[problem])  
+    do neighbor ← a highest_valued successor of current  
+         if Value[neighbor] ≤ Value[current] then  
+Disadvantage: This algorithm is neither complete, nor optimal. 
+
+• f(n) estimated total cost of path through n to goal. It is implemented using priority queue 
+by increasing f(n). 
+Greedy Best First Search  
+It expands the node that is estimated to be closest to goal. It expands nodes based on f(n) = 
+h(n). It is implemented using priority queue.  
+They  start  from  a  prospective  solution  and  then move  to  a neighboring solution.  They  can 
+return a valid solution even if it is interrupted at any time before they end. 
+Hill-Climbing Search  
+It is an iterative algorithm that starts with an arbitrary solution to a problem and attempts to 
+find a better solution by changing a single element of the solution incrementally. If the change 
+produces a better solution, an incremental change is taken as a new solution. This process is 
+repeated until there are no further improvements. 
+function Hill-Climbing (problem), returns a state that is a local maximum. 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+loop  
+end 
+Start 
+End 
+Start 
+
+start with k randomly generated states  
+     generate all successors of all k states  
+     else select the k best successors 
+
+function BeamSearch( problem, k), returns a solution state.  
+     if any of the states = solution, then return the state 
+
+Local Beam Search  
+In this algorithm, it holds k number of states at any given time. At the start, these states are 
+generated randomly. The successors of these k states are computed with the help of objective 
+function. If any of these successors is the maximum value of the objective function, then the 
+algorithm stops.  
+Otherwise the (initial k states and k number of successors of the states = 2k) states are placed 
+in a pool. The pool is then sorted numerically. The highest k states are selected as new initial 
+states. This process continues until a maximum value is reached.  
+Simulated Annealing 
+Annealing is the process of heating and cooling a metal to change its internal structure for 
+modifying its physical properties. When the metal cools, its new structure is seized, and the 
+metal retains its newly obtained properties. In simulated annealing process, the temperature 
+is kept variable.  
+We  initially  set  the  temperature  high  and  then  allow  it  to  ‘cool'  slowly  as  the  algorithm 
+proceeds. When the temperature is high, the algorithm is allowed to accept worse solutions 
+with high frequency.  
+Travelling Salesman Problem 
+In this algorithm, the objective is to find a low-cost tour that starts from a city, visits all cities 
+en-route exactly once and ends at the same starting city. 
+   Find out all (n -1)! Possible solutions, where n is the total number of cities. 
+
+Repeat steps 1 through 4 till the criteria is met. 
+
+5.  Initialize k = 0; L = integer number of variables; 
+6.  From i -> j, search the performance difference ∆. 
+7.  If ∆ <= 0 then accept else if exp(-/T(k)) > random(0,1) then accept; 
+8.  Repeat steps 1 and 2 for L(k) steps. 
+9.  k = k + 1; 
+Travelling Salesman Problem 
+In this algorithm, the objective is to find a low-cost tour that starts from a city, visits all cities 
+en-route exactly once and ends at the same starting city. 
+   Find out all (n -1)! Possible solutions, where n is the total number of cities. 
+
+ 
+
+  
+ 
+
+
+figure 26_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+end 
+
+   solutions. 
+
+   Finally, keep the one with the minimum cost. 
+
+   Determine the minimum cost by finding out the cost of each of these (n -1)!     
+
+ 
+
+  
+ 
+ 
+
+
+
+
+ 
+ 
+
+What is Fuzzy Logic? 
+Implementation 
+Why Fuzzy Logic? 
+
+Fuzzy logic is useful for commercial and practical purposes. 
+
+Fuzzy Logic Systems (FLS) produce acceptable but definite output in response to incomplete, 
+ambiguous, distorted, or inaccurate (fuzzy) input. 
+Fuzzy Logic (FL) is a method of reasoning that resembles human reasoning. The approach of 
+FL imitates the way of decision making in humans that involves all intermediate possibilities 
+between digital values YES and NO.  
+The conventional logic block that a computer can understand takes precise input and produces 
+a definite output as TRUE or FALSE, which is equivalent to human’s YES or NO.  
+The inventor of fuzzy logic, Lotfi Zadeh, observed that unlike computers, the human decision 
+making includes a range of possibilities between YES and NO, such as: 
+The fuzzy logic works on the levels of possibilities of input to achieve the definite output.  
+
+ 
+ 
+ 
+ 
+
+It can control machines and consumer products. 
+It may not give accurate reasoning, but acceptable reasoning. 
+  Fuzzy logic helps to deal with the uncertainty in engineering.  
+
+It can be implemented in systems with various sizes and capabilities ranging from small 
+micro-controllers to large, networked, workstation-based control systems.  
+It can be implemented in hardware, software, or a combination of both.  
+
+6.  Fuzzy Logic Systems 
+
+CERTAINLY YES 
+POSSIBLY YES 
+CANNOT SAY 
+POSSIBLY NO 
+CERTAINLY NO 
+ 
+
+  
+ 
+
+
+
+
+
+ 
+
+Fuzzy Logic Systems Architecture 
+It has four main parts as shown: 
+
+These membership functions work on fuzzy sets of variables. 
+
+1.  Fuzzification Module: transforms the system inputs, which are crisp numbers, into 
+2.  Knowledge Base: It stores IF-THEN rules provided by experts. 
+3.  Inference  Engine: It  simulates  the  human  reasoning  process  by  making  fuzzy 
+4.  Defuzzification Module: It transforms the fuzzy set obtained by the inference engine 
+Membership Functions 
+Membership  functions  allow  you  to  quantify  linguistic  term  and  represent  a  fuzzy  set 
+graphically.  A  membership  function  for  a  fuzzy  set  A  on  the  universe  of  discourse  X  is 
+defined as µA:X → [0,1].  
+
+fuzzy sets.  
+into a crisp value. 
+
+It splits the input signal into five steps such as: 
+inference on the inputs and IF-THEN rules. 
+
+LP 
+MP 
+S 
+MN 
+LN 
+
+x is Large Positive  
+x is Medium Positive 
+x is Small 
+x is Medium Negative 
+x is Large Negative 
+ 
+
+  
+ 
+ 
+
+
+
+
+
+ 
+
+Here,  each  element  of  X  is  mapped  to  a  value  between  0  and  1.  It  is  called  membership 
+value or degree of membership. It quantifies the degree of membership of the element in X 
+to the fuzzy set A. 
+There can be multiple membership functions applicable to fuzzify a numerical value. Simple 
+membership functions are used as use of complex functions does not add more precision in 
+the output. 
+All membership functions for LP, MP, S, MN, and LN are shown as below: 
+The  triangular  membership  function  shapes  are  most  common  among  various  other 
+membership function shapes such as trapezoidal, singleton, and Gaussian. 
+Here, the input to 5-level fuzzifier varies from -10 volts to +10 volts. Hence the corresponding 
+output also changes. 
+Let us consider an air conditioning system with 5-lvel fuzzy logic system. This system adjusts 
+the  temperature  of  air  conditioner  by  comparing  the  room  temperature  and  the  target 
+temperature value.  
+
+  x axis represents the universe of discourse. 
+Example of a Fuzzy Logic System 
+
+  y axis represents the degrees of membership in the [0, 1] interval. 
+All membership functions for LP, MP, S, MN, and LN are shown as below: 
+
+ 
+
+  
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+Algorithm  
+
+Development 
+Step 1: Define linguistic variables and terms 
+Step 2: Construct membership functions for them 
+
+The membership functions of temperature variable are as shown: 
+
+1.  Define linguistic Variables and terms (start) 
+2.  Construct membership functions for them. (start)  
+3.  Construct knowledge base of rules (start) 
+4.  Convert crisp data into fuzzy data sets using membership functions (fuzzification) 
+5.  Evaluate rules in the rule base (inference engine) 
+6.  Combine results from each rule (inference engine) 
+7.  Convert output data into non-fuzzy values. (defuzzification) 
+Linguistic variables are input and output variables in the form of simple words or sentences. 
+For room temperature, cold, warm, hot, etc., are linguistic terms. 
+Every  member  of  this  set  is  a  linguistic  term  and  it  can  cover  some  portion  of  overall 
+temperature values. 
+
+Temperature (t) = {very-cold, cold, warm, very-warm, hot} 
+
+ 
+
+  
+ 
+ 
+
+
+figure 31_2 Artificial_intelligence_1_tutorial
+
+
+ 
+1 
+2 
+3 
+ 
+ 
+
+Step3: Construct knowledge base rules 
+RoomTemp/Target  Very_Cold 
+
+Create  a  matrix  of  room  temperature  values  versus  target  temperature  values  that  an  air 
+conditioning system is expected to provide. 
+Build a set of rules into the knowledge base in the form of IF-THEN-ELSE structures. 
+
+Cold 
+Warm 
+Hot 
+Sr. No. 
+1 
+2 
+3 
+Step5 
+
+Very_Cold 
+Warm 
+Very_Hot 
+Sr. No. 
+Step5 
+
+IF temperature=(Cold OR Very_Cold) AND target=Warm THEN  HEAT 
+IF temperature=(Hot OR Very_Hot) AND target=Warm THEN 
+IF (temperature=Warm) AND (target=Warm) THEN 
+
+Cool 
+Cool 
+Cool 
+Cool 
+
+No_Change  Heat 
+
+Cold 
+Heat 
+Cool 
+Cool 
+Cool 
+No_Change  Heat 
+Cool 
+Cool 
+Condition 
+ 
+
+Warm 
+Heat 
+No_Change  Heat 
+Heat 
+Heat 
+Cool 
+Cool 
+Cool 
+
+Hot 
+Very_Hot 
+Heat 
+Heat 
+Heat 
+Heat 
+Heat 
+No_Change  Heat 
+Cool 
+No_Change 
+Action 
+COOL 
+NOCHANGE 
+
+  
+ 
+Very_Hot 
+Heat 
+Heat 
+Heat 
+No_Change 
+Action 
+COOL 
+NOCHANGE 
+ 
+
+
+
+
+
+ 
+
+Step 6 
+
+Application Areas of Fuzzy Logic 
+The key application areas of fuzzy logic are as given: 
+
+Fuzzy set  operations perform  evaluation of rules. The  operations used  for OR and AND are 
+Max and Min respectively. All results of evaluation are combined to form a final result. This 
+result is a fuzzy value. 
+Defuzzification is then performed according to membership function for output variable. 
+
+  Television 
+Domestic Goods 
+  Refrigerators 
+  Toasters 
+
+Automotive Systems 
+  Automatic Gearboxes 
+  Four-Wheel Steering 
+Consumer Electronics 
+  Hi-Fi Systems 
+  Photocopiers 
+  Still and Video Cameras 
+Domestic Goods 
+  Microwave Ovens 
+  Refrigerators 
+  Vacuum Cleaners 
+
+  Vehicle environment control 
+Consumer Electronics 
+  Still and Video Cameras 
+
+ 
+
+  
+ 
+ 
+
+
+
+
+ 
+ 
+
+  Washing Machines 
+Environment Control 
+  Humidifiers 
+Advantages of FLSs 
+Disadvantages of FLSs 
+
+  Air Conditioners/Dryers/Heaters 
+Disadvantages of FLSs 
+
+  FLSs are easy to construct and understand. 
+it resembles human reasoning and decision making.  
+  They are understandable only when simple. 
+
+  Mathematical concepts within fuzzy reasoning are very simple. 
+  Fuzzy logic Systems can take imprecise, distorted, noisy input information. 
+it resembles human reasoning and decision making.  
+  There is no systematic approach to fuzzy system designing. 
+  They are suitable for the problems which do not need high accuracy.  
+
+  You can modify a FIS by just adding or deleting rules due to flexibility of fuzzy logic. 
+  Fuzzy logic Systems can take imprecise, distorted, noisy input information. 
+  Fuzzy logic is a solution to complex problems in all fields of life, including medicine, as 
+  They are suitable for the problems which do not need high accuracy.  
+
+ 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+It involves: 
+
+Components of NLP 
+The NLU is harder than NLG. 
+Difficulties in NLU 
+
+There are two components of NLP as given: 
+Natural Language Understanding (NLU) 
+Understanding involves the following tasks: 
+
+Natural Language Processing (NLP) refers to AI method of communicating with an intelligent 
+systems using a natural language such as English. 
+Processing of Natural Language is required when you want an intelligent system like robot to 
+perform  as  per  your  instructions,  when  you  want  to  hear  decision  from  a  dialogue  based 
+clinical expert system, etc. 
+The field of NLP involves making computers to perform useful tasks with the natural languages 
+humans use. The input and output of an NLP system can be: 
+Natural Language Generation (NLG) 
+It  is  the  process  of  producing  meaningful  phrases  and  sentences  in  the  form  of  natural 
+language from some internal representation.  
+
+ 
+
+  Mapping the given input in natural language into useful representations. 
+  Analyzing different aspects of the language. 
+  Text Realization: It is mapping sentence plan into sentence structure. 
+  NL has an extremely rich form and structure. 
+It is very ambiguous. There can be different levels of ambiguity: 
+
+  Text planning: It includes retrieving the relevant content from knowledge base.  
+  Sentence  planning:  It  includes  choosing  required  words,  forming  meaningful 
+  Text Realization: It is mapping sentence plan into sentence structure. 
+It is very ambiguous. There can be different levels of ambiguity: 
+
+Speech 
+ 
+  Written Text 
+
+phrases, setting tone of the sentence. 
+  NL has an extremely rich form and structure. 
+
+o  Lexical ambiguity: It is at very primitive level such as word-level.  
+
+7.  Natural Language Processing 
+
+ 
+
+Artificial Intelligence  
+
+ 
+
+
+
+
+ 
+
+NLP Terminology 
+Steps in NLP 
+There are general five steps:  
+
+1.  Lexical Analysis 
+
+2.  Syntactic Analysis (Parsing) 
+
+  Phonology: It is study of organizing sound systematically. 
+  Morpheme: It is primitive unit of meaning in a language. 
+the structural role of words in the sentence and in phrases. 
+and how the interpretation of the sentence is affected. 
+  World Knowledge: It includes the general knowledge about the world. 
+
+  Morphology: It is a study of construction of words from primitive meaningful units. 
+  Syntax: It refers to arranging words to make a sentence. It also involves determining 
+  Semantics: It is concerned with the meaning of words and how to combine words into 
+  Pragmatics: It deals with using and understanding sentences in different situations 
+  Discourse:  It  deals  with  how  the  immediately  preceding  sentence  can  affect  the 
+  World Knowledge: It includes the general knowledge about the world. 
+It  involves  identifying  and  analyzing  the  structure  of  words.  Lexicon  of  a  language 
+means the collection of words and phrases in a language. Lexical analysis is dividing 
+the whole chunk of txt into paragraphs, sentences, and words. 
+It involves analysis of  words in the sentence  for grammar and arranging words in a 
+manner  that  shows  the  relationship  among  the  words.  The  sentence  such  as  “The 
+school goes to boy” is rejected by English syntactic analyzer. 
+
+o  Many inputs can mean the same thing. 
+the structural role of words in the sentence and in phrases. 
+meaningful phrases and sentences. 
+and how the interpretation of the sentence is affected. 
+interpretation of the next sentence. 
+
+o  For example, treating the word “board” as noun or verb? 
+o  Syntax Level ambiguity: A sentence can be parsed in different ways.  
+beetle or he lifted a beetle that had red cap? 
+Rima went to Gauri. She said, “I am tired.” - Exactly who is tired? 
+o  One input can mean different meanings. 
+the structural role of words in the sentence and in phrases. 
+and how the interpretation of the sentence is affected. 
+
+o  For example, “He lifted the  beetle with red cap.” – Did he use  cap to lift the 
+o  Referential ambiguity: Referring to something using pronouns. For example, 
+Rima went to Gauri. She said, “I am tired.” - Exactly who is tired? 
+It  involves  identifying  and  analyzing  the  structure  of  words.  Lexicon  of  a  language 
+means the collection of words and phrases in a language. Lexical analysis is dividing 
+the whole chunk of txt into paragraphs, sentences, and words. 
+It involves analysis of  words in the sentence  for grammar and arranging words in a 
+manner  that  shows  the  relationship  among  the  words.  The  sentence  such  as  “The 
+school goes to boy” is rejected by English syntactic analyzer. 
+
+ 
+
+  
+ 
+
+
+figure 36_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Implementation Aspects of Syntactic Analysis 
+
+There are a number of algorithms researchers have developed for syntactic analysis, but we 
+consider only the following simple methods: 
+Context-Free Grammar  
+It is the grammar that consists rules with a single symbol on the left-hand side of the rewrite 
+rules. Let us create grammar to parse a sentence –  
+
+3.  Semantic Analysis 
+4.  Discourse Integration 
+5.  Pragmatic Analysis 
+  Context-Free Grammar 
+  Top-Down Parser 
+Let us see them in detail: 
+“The bird pecks the grains” 
+Articles (DET): a | an | the. 
+
+It  draws  the  exact  meaning  or  the  dictionary  meaning  from  the  text.  The  text  is 
+checked for meaningfulness. It is done by mapping syntactic structures and objects in 
+the task domain. The semantic analyzer disregards sentence such as “hot ice-cream”. 
+The meaning of any sentence depends upon the meaning of the sentence just before 
+it. In addition, it also brings about the meaning of immediately succeeding sentence. 
+During  this,  what  was  said  is  re-interpreted  on  what  it  actually  meant.  It  involves 
+deriving those aspects of language which require real world knowledge. 
+
+ 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+Nouns: bird | birds | grain | grains 
+                              = DET N | DET ADJ N 
+Verbs: pecks | pecking | pecked  
+Verb Phrase (VP): NP V | V NP 
+ 
+S -> NP VP 
+NP -> DET N | DET ADJ N 
+VP -> V NP 
+Lexocon: 
+DET -> a | the 
+ADJ -> beautiful | perching 
+N -> bird | birds | grain | grains 
+V -> peck | pecks | pecking  
+ 
+The parse tree can be created as shown:  
+
+Adjectives (ADJ): beautiful | small | chirping 
+ 
+The parse tree can be created as shown:  
+
+Noun Phrase (NP): Article + Noun | Article + Adjective + Noun  
+
+The parse tree breaks down the sentence into structured parts so that the computer can easily 
+understand and process it. In order for the parsing algorithm to construct this parse tree, a 
+set of rewrite rules, which describe what tree structures are legal, need to be constructed. 
+These rules say that a certain symbol may be expanded in the tree by a sequence of other 
+symbols.  According  to  first  order  logic  rule,  ff  there  are  two  strings  Noun  Phrase  (NP)  and 
+Verb Phrase (VP), then the string combined by NP followed by VP is a sentence. The rewrite 
+rules for the sentence are as follows: 
+
+ 
+
+  
+ 
+
+
+figure 38_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Demerits: 
+
+Merit: The simplest style of grammar, therefore widely used one. 
+
+Now consider the above rewrite rules. Since V can be replaced by both,  "peck" or "pecks", 
+sentences such as "The bird peck the grains" can be wrongly permitted. i. e. the subject-verb 
+agreement error is approved as correct.  
+Top-Down Parser 
+Here,  the  parser  starts  with  the S symbol  and  attempts  to  rewrite  it  into  a  sequence 
+of terminal  symbols that  matches  the  classes  of  the  words  in  the  input  sentence  until  it 
+consists entirely of terminal symbols.  
+These are then checked with the input sentence to see if it matched. If not, the process is 
+started over again with a different set of rules. This is repeated until a specific rule is found 
+which describes the structure of the sentence.  
+
+  They are not highly precise. For example, “The grains peck the bird”, is a syntactically 
+correct according to parser, but even if it makes no sense, parser takes it as a correct 
+  To  bring  out  high  precision,  multiple  sets  of  grammar  need  to  be  prepared.  It  may 
+require a completely different sets of rules for parsing singular and plural variations, 
+passive  sentences,  etc.,  which  can  lead  to  creation  of  huge  set  of  rules  that  are 
+Top-Down Parser 
+Here,  the  parser  starts  with  the S symbol  and  attempts  to  rewrite  it  into  a  sequence 
+of terminal  symbols that  matches  the  classes  of  the  words  in  the  input  sentence  until  it 
+consists entirely of terminal symbols.  
+These are then checked with the input sentence to see if it matched. If not, the process is 
+started over again with a different set of rules. This is repeated until a specific rule is found 
+which describes the structure of the sentence.  
+
+sentence. 
+unmanageable.  
+
+ 
+
+  
+ 
+ 
+
+
+
+
+ 
+
+Demerits: 
+
+Merit: It is simple to implement. 
+
+ 
+
+  Slow speed of working. 
+
+It is inefficient, as the search process has to be repeated if an error occurs.  
+
+ 
+ 
+
+  
+ 
+
+
+
+
+ 
+
+What are Expert Systems? 
+Capabilities of Expert Systems 
+The expert systems are capable of: 
+
+Characteristics of Expert Systems 
+Capabilities of Expert Systems 
+The expert systems are capable of: 
+
+Expert systems (ES) are one of the prominent research domains of AI. It is introduced by the 
+researchers at Stanford University, Computer Science Department. 
+The expert systems are the computer applications developed to solve complex problems in a 
+particular domain, at the level of extra-ordinary human intelligence and expertise.  
+
+ 
+ 
+ 
+
+  Reliable 
+  Advising  
+  Diagnosing 
+  Explaining  
+
+  High performance 
+  Understandable 
+  Highly responsive 
+  Demonstrating  
+  Deriving a solution 
+  Diagnosing 
+  Explaining  
+Interpreting input 
+  Predicting results 
+Justifying the conclusion 
+They are incapable of: 
+
+  Substituting human decision makers 
+  Possessing human capabilities 
+  Refining their own knowledge 
+
+Instructing and assisting human in decision making 
+  Suggesting alternative options to a problem 
+  Producing accurate output for inadequate knowledge base 
+
+8.  Expert Systems 
+
+ 
+
+  
+ 
+
+
+figure 41_2 Artificial_intelligence_1_tutorial
+
+
+ 
+ 
+ 
+ 
+
+Components of Expert Systems 
+The components of ES include: 
+Let us see them one by one briefly: 
+
+It contains domain-specific and high-quality knowledge.  
+
+Knowledge is required to exhibit intelligence. The success of any  ES  majorly depends upon 
+the collection of highly accurate and precise knowledge. 
+What is Knowledge? 
+The data is collection of facts. The information is organized as data and facts about the task 
+domain.  Data,  information,  and  past  experience  combined  together  are  termed  as 
+knowledge.  
+
+ 
+
+  Knowledge Base  
+Inference Engine  
+  User Interface  
+Knowledge Base  
+
+ 
+
+  
+ 
+ 
+
+
+
+
+ 
+
+Inference Engine 
+In case of rule based ES, it: 
+
+Knowledge representation 
+In case of rule based ES, it: 
+
+Components of Knowledge Base 
+The knowledge base of an ES is a store of both, factual and heuristic knowledge.  
+It is the method used to organize and formalize the knowledge in the knowledge base. It is in 
+the form of IF-THEN-ELSE rules.   
+Knowledge Acquisition 
+The success of any expert system majorly depends on the quality, completeness, and accuracy 
+of the information stored in the knowledge base.  
+The  knowledge  base  is  formed  by  readings  from  various  experts,  scholars,  and  the 
+Knowledge Engineers. The knowledge engineer is a person with the qualities of empathy, 
+quick learning, and case analyzing skills.  
+He acquires information from subject expert by recording, interviewing, and observing him at 
+work, etc. He then categorizes and organizes the information in a meaningful way, in the form 
+of  IF-THEN-ELSE  rules,  to  be  used  by  interference  machine.  The  knowledge  engineer  also 
+monitors the development of the ES. 
+Use  of  efficient  procedures  and  rules  by  the  Inference  Engine  is  essential  in  deducting  a 
+correct, flawless solution.  
+In case of knowledge-based ES, the Inference Engine acquires and manipulates the knowledge 
+from the knowledge base to arrive at a particular solution.  
+To recommend a solution, the inference engine uses the following strategies: 
+Forward Chaining 
+It is a strategy of an expert system to answer the question, “What can happen next?” 
+
+  Adds new knowledge into the knowledge base if required. 
+To recommend a solution, the inference engine uses the following strategies: 
+
+  Factual  Knowledge  –  It  is  the  information  widely  accepted  by  the  Knowledge 
+  Heuristic  Knowledge  –  It  is  about  practice,  accurate  judgment,  one’s  ability  of 
+It is the method used to organize and formalize the knowledge in the knowledge base. It is in 
+the form of IF-THEN-ELSE rules.   
+Knowledge Acquisition 
+The success of any expert system majorly depends on the quality, completeness, and accuracy 
+of the information stored in the knowledge base.  
+The  knowledge  base  is  formed  by  readings  from  various  experts,  scholars,  and  the 
+Knowledge Engineers. The knowledge engineer is a person with the qualities of empathy, 
+quick learning, and case analyzing skills.  
+He acquires information from subject expert by recording, interviewing, and observing him at 
+work, etc. He then categorizes and organizes the information in a meaningful way, in the form 
+of  IF-THEN-ELSE  rules,  to  be  used  by  interference  machine.  The  knowledge  engineer  also 
+monitors the development of the ES. 
+Use  of  efficient  procedures  and  rules  by  the  Inference  Engine  is  essential  in  deducting  a 
+correct, flawless solution.  
+In case of knowledge-based ES, the Inference Engine acquires and manipulates the knowledge 
+from the knowledge base to arrive at a particular solution.  
+  Applies rules repeatedly to the facts, which are obtained from earlier rule application. 
+  Resolves rules conflict when multiple rules are applicable to a particular case 
+To recommend a solution, the inference engine uses the following strategies: 
+Forward Chaining 
+It is a strategy of an expert system to answer the question, “What can happen next?” 
+
+evaluation, and guessing. 
+  Forward Chaining 
+  Backward Chaining 
+
+Engineers and scholars in the task domain. 
+
+ 
+
+  
+ 
+
+
+figure 43_2 Artificial_intelligence_1_tutorial
+figure 43_3 Artificial_intelligence_1_tutorial
+
+
+ 
+
+User Interface 
+
+Here, the inferance engine follows the chain of conditions and derivations and finally deduces 
+the  outcome.  It  considers  all  the  facts  and  rules,  and  sorts  them  before  concluding  to  a 
+solution.  
+This strategy is followed for working on conclusion, result, or effect. For example, prediction 
+of share market status as an effect of changes in interest rates.  
+Backward Chaining 
+With  this  strategy,  an  expert  system  finds  out  the  answer  to  the  question,  “Why  this 
+happened?” 
+On  the  basis  of  what  has  already  happened,  the  inference  engine  tries  to  find  out  which 
+conditions could have happened in the past for this result. This strategy is followed for finding 
+out cause or reason. For example, diagnosis of blood cancer in humans.  
+User interface provides interaction between user of the ES and the ES itself. It is generally 
+Natural  Language  Processing  so  as  to  be  used  by  the  user  who  is  well-versed  in  the  task 
+domain. The user of the ES need not be necessarily an expert in Artificial Intelligence. 
+It explains how the ES has arrived at a particular recommendation. The explanation may in 
+the following forms: 
+
+  Natural language displayed on screen 
+  Verbal narrations in natural language  
+
+ 
+
+  
+ 
+ 
+ 
+
+
+
+
+ 
+
+Expert Systems Limitations 
+Applications of Expert System  
+Process Control Systems 
+
+The user interface makes it easy to trace the credibility of the deductions. 
+Requirements of Efficient ES User Interface  
+
+No  technology  can  offer  easy  and  complete  solution.  Large  systems  are  costly,  require 
+significant  development  time,  and  computer  resources.  ESs  have  their  limitations  which 
+include: 
+
+Design Domain 
+Medical Domain 
+Monitoring Systems  
+Knowledge Domain 
+Finance/Commerce 
+
+ 
+ 
+ 
+ 
+
+  Limitations of the technology 
+  Difficult knowledge acquisition  
+  ES are Difficult to maintain 
+  High Development costs 
+Applications of Expert System  
+
+  Listing of rule numbers displayed on the screen.  
+Requirements of Efficient ES User Interface  
+It should make efficient use of user input. 
+The following table shows where ES can be applied.  
+
+Application 
+
+It should help users to accomplish their goals in shortest possible ay. 
+It should be designed to work for user’s existing or desired work practices. 
+Its technology should be adaptable to user’s requirements; not the other way round. 
+
+Camera lens design, automobile design. 
+Controlling a physical process based on monitoring. 
+Finding out faults in vehicles, computers. 
+
+Diagnosis Systems to deduce cause  of disease from observed 
+data, conduction medical operations on humans. 
+Comparing  data  continuously  with  observed  system  or  with 
+prescribed  behavior  such  as  leakage  monitoring  in  long 
+petroleum pipeline. 
+Controlling a physical process based on monitoring. 
+Detection  of  possible  fraud,  suspicious  transactions,  stock 
+market trading, Airline scheduling, cargo scheduling. 
+
+ 
+
+Description 
+
+  
+ 
+
+
+
+
+ 
+
+2. Design the System 
+
+Expert System Technology  
+1. Identify Problem Domain 
+
+Development of Expert Systems: General Steps  
+
+There are several levels of ES technologies available. Expert systems technologies include: 
+The process of ES development is iterative. Steps in developing the ES include: 
+
+ 
+
+  The problem must be suitable for an expert system to solve it. 
+  Find the experts in task domain for the ES project. 
+  Realize how the concepts can represent the domain knowledge best.  
+
+1.  Expert  System  Development  Environment:  The  ES  development  environment 
+2.  Tools:  They  reduce  the  effort  and  cost  involved  in  developing  an  expert  system  to 
+1.  Shells:  A  shell  is  nothing  but  an  expert  system  without  knowledge  base.  A  shell 
+provides the developers with knowledge acquisition, inference engine, user interface, 
+and explanation facility. For example, few shells are given below:  
+The process of ES development is iterative. Steps in developing the ES include: 
+  Know and establish the degree of integration with the other systems and databases. 
+  Realize how the concepts can represent the domain knowledge best.  
+
+large extent. 
+
+includes hardware and tools. They are: 
+o  Workstations, minicomputers, mainframes  
+o  They provide rapid prototyping 
+  Find the experts in task domain for the ES project. 
+  Establish cost-effectiveness of the system. 
+Identify the ES Technology. 
+
+o 
+
+o  Large databases 
+design. 
+Identify the ES Technology. 
+
+o  High level Symbolic Programming Languages such as LISt Programming (LISP) 
+o  Powerful editors and debugging tools with multi-windows. 
+o  Have  Inbuilt  definitions  of  model,  knowledge  representation,  and  inference 
+Java  Expert  System  Shell  (JESS)  that  provides  fully  developed  Java  API  for 
+o  Vidwan,  a  shell  developed  at  the  National  Centre  for  Software  Technology, 
+Mumbai in 1993. It enables knowledge encoding in the form of IF-THEN rules.  
+
+creating an expert system. 
+
+and PROgrammation en LOGique (PROLOG). 
+o  Powerful editors and debugging tools with multi-windows. 
+o  They provide rapid prototyping 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+3. Develop the Prototype 
+4. Test and Refine the Prototype 
+5. Develop and Complete the ES 
+ 
+6. Maintain the System 
+Benefits of Expert Systems 
+
+    Form Knowledge Base: The knowledge engineer works to: 
+
+ 
+ 
+
+  Document the ES project well. 
+  Train the user to use ES. 
+Benefits of Expert Systems 
+
+  The knowledge engineer uses sample cases to test the prototype for any deficiencies 
+  Test  and  ensure  the  interaction  of  the  ES  with  all  elements  of  its  environment,  including  end  users, 
+  Keep the knowledge base up-to-date by regular review and update. 
+  Cater for new interfaces with other information systems, as those systems evolve. 
+  Availability: They are easily available due to mass production of software. 
+  Less Production Cost: Production cost is reasonable. This makes them affordable. 
+  Speed: They offer great speed. They reduce the amount of work an individual puts in. 
+  Less Error Rate: Error rate is low as compared to human errors. 
+  Reducing Risk: They can work in the environment dangerous to humans. 
+  Steady response: They work steadily without getting motional, tensed or fatigued. 
+
+in performance.  
+
+    Acquire domain knowledge from the expert. 
+    Represent it in the form of If-THEN-ELSE rules. 
+  End users test the prototypes of the ES. 
+databases, and other information systems. 
+
+ 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+What are Robots? 
+What is Robotics? 
+Aspects of Robotics 
+
+Here is the difference between the two: 
+They usually operate in computer-stimulated 
+worlds. 
+The input to an AI program is in symbols and 
+rules. 
+They  need  general  purpose  computers  to 
+operate on. 
+
+Robots are the artificial agents acting in real world environment.  
+Difference in Robot System and Other AI Program 
+
+Robotics is a domain in artificial intelligence that deals with  the study of creating intelligent 
+and efficient robots. 
+Objective 
+Robots are aimed at manipulating the objects by perceiving, picking, moving, modifying the 
+physical  properties  of  object,  destroying  it,  or  to  have  an  effect  thereby  freeing  manpower 
+from doing repetitive functions without getting bored, distracted, or exhausted.  
+Robotics  is  a  branch  of  AI,  which  is  composed  of  Electrical  Engineering,  Mechanical 
+Engineering, and Computer Science for designing, construction, and application of robots.  
+
+  The robots have mechanical construction, form, or shape designed to accomplish a 
+  They have electrical components which power and control the machinery. 
+  They contain some level of computer program that determines what, when and how 
+
+particular task. 
+
+a robot does something. 
+
+AI Programs 
+
+9.  Robotics 
+
+ 
+
+They operate in real physical world 
+Inputs to robots is analog signal in the form of 
+speech waveform or images 
+They need special hardware with sensors and 
+effectors. 
+
+Robots 
+
+  
+ 
+
+
+
+
+ 
+
+Robot Locomotion 
+Legged Locomotion 
+= (2*2-1)! = 3! = 6.  
+
+Locomotion is the mechanism that makes a robot capable of moving in its environment. There 
+are various types of locomotions: 
+The total number of possible gaits (a periodic sequence of lift and release events for each of 
+the total legs) a robot can travel depends upon the number of its legs.  
+In case of a two-legged robot (k=2), the number of possible events is N = (2k-1)!  
+In case of k=6 legs, there are 39916800 possible events. Hence the complexity of robots is 
+directly proportional to the number of legs. 
+
+ 
+ 
+
+  Legged 
+  Wheeled 
+
+  Tracked slip/skid  
+Legged Locomotion 
+stability issues. 
+= (2*2-1)! = 3! = 6.  
+1. Lifting the Left leg  
+2. Releasing the Left leg  
+3. Lifting the Right leg  
+4. Releasing the Right leg  
+
+  Combination of Legged and Wheeled Locomotion 
+then leg coordination is necessary for locomotion.  
+If a robot has k legs, then the number of possible events N = (2k-1)!. 
+Hence there are six possible different events: 
+
+  This type of locomotion consumes more power while demonstrating walk, jump, trot, 
+It requires more number of motors to accomplish a movement. It is suited for rough 
+as  well  as  smooth  terrain  where  irregular  or  too  smooth  surface  makes  it  consume 
+more  power  for  a  wheeled  locomotion.  It  is  little  difficult  to  implement  because  of 
+It comes with the variety of one, two, four, and six legs. If a robot has multiple legs 
+The total number of possible gaits (a periodic sequence of lift and release events for each of 
+the total legs) a robot can travel depends upon the number of its legs.  
+In case of a two-legged robot (k=2), the number of possible events is N = (2k-1)!  
+In case of k=6 legs, there are 39916800 possible events. Hence the complexity of robots is 
+directly proportional to the number of legs. 
+
+hop, climb up or down, etc.  
+2. Releasing the Left leg  
+3. Lifting the Right leg  
+4. Releasing the Right leg  
+5. Lifting both the legs together  
+6. Releasing both the legs together. 
+
+ 
+
+  
+ 
+
+
+figure 49_2 Artificial_intelligence_1_tutorial
+figure 49_3 Artificial_intelligence_1_tutorial
+figure 49_4 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Wheeled Locomotion 
+It requires fewer number of motors to accomplish a movement. It is little easy to implement 
+as there are less stability issues in case of more number of wheels. It is power efficient as 
+compared to legged locomotion. 
+Slip/Skid Locomotion 
+In this type, the vehicles use tracks as in a tank. The robot is steered by moving the tracks 
+with  different  speeds  in  the  same  or  opposite  direction.  It  offers  stability  because  of  large 
+contact area of track and ground. 
+
+  Standard wheel: Rotates around the wheel axle and around the contact 
+  Castor wheel: Rotates around the wheel axle and the offset steering joint  
+  Swedish  45°  and  Swedish  90°  wheels:  Omni-wheel,  rotates  around  the  contact 
+  Ball or spherical wheel: Omnidirectional wheel, technically difficult to implement. 
+Slip/Skid Locomotion 
+In this type, the vehicles use tracks as in a tank. The robot is steered by moving the tracks 
+with  different  speeds  in  the  same  or  opposite  direction.  It  offers  stability  because  of  large 
+contact area of track and ground. 
+
+point, around the wheel axle, and around the rollers.  
+
+ 
+ 
+ 
+ 
+
+  
+ 
+
+
+
+
+ 
+
+Components of a Robot 
+Computer Vision 
+Tasks of Computer Vision 
+
+Robots are constructed with the following: 
+Hardware of Computer Vision System 
+This involves: 
+Tasks of Computer Vision 
+
+ 
+
+  Power supply 
+  a processor  
+  a software  
+
+  Actuators: They convert energy into movement. 
+Hardware of Computer Vision System 
+This involves: 
+Image acquisition device such as camera 
+  A display device for monitoring the system 
+  Accessories such as camera stands, cables, and connectors 
+
+  Power  Supply:  The  robots  are  powered  by  batteries,  solar  power,  hydraulic,  or 
+  Electric motors (AC/DC): They are required for rotational movement. 
+  Pneumatic Air Muscles: They contract almost 40% when air is sucked in them. 
+  Muscle Wires: They contract by 5% when electric current is passed through them. 
+  Piezo Motors and Ultrasonic Motors: Best for industrial robots. 
+  Sensors: They provide knowledge of real time information on the task environment. 
+Robots  are  equipped  with  vision  sensors  to  be  to  compute  the  depth  in  the 
+environment. A tactile sensor imitates the mechanical properties of touch receptors of 
+This is a technology of AI with which the robots can see. The computer vision plays vital role 
+in the domains of safety, security, health, access, and entertainment. 
+Computer vision automatically extracts, analyzes, and comprehends useful information from 
+a  single  image  or  an  array  of  images.  This  process  involves  development  of  algorithms  to 
+accomplish automatic visual comprehension. 
+OCR: In the domain of computers, Optical Character Reader, a software to convert scanned 
+documents into editable text, which accompanies a scanner. 
+
+pneumatic power sources.  
+human fingertips.  
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+Application Domains of Computer Vision 
+
+The robotics has been instrumental in the various domains such as: 
+
+Face  Detection:  Many  state-of-the-art  cameras  come  with  this  feature,  which  enables  to 
+read the face and take the picture of that perfect expression. It is used to let a user access 
+the software on correct match.  
+Object  Recognition:  They  are  installed  in  supermarkets,  cameras,  high-end  cars  such  as 
+BMW, GM, and Volvo. 
+Estimating  Position:  It  is  estimating  position  of  an  object  with  respect  to  camera  as  in 
+position of tumor in human’s body. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  agriculture 
+  biometrics 
+face recognition 
+  gesture analysis 
+  geoscience 
+  medical imagery 
+  process control  
+remote sensing 
+robotics 
+transport 
+
+  autonomous vehicles 
+character recognition 
+industrial quality inspection 
+face recognition 
+  gesture analysis 
+  medical imagery 
+  pollution monitoring 
+  process control  
+remote sensing 
+Applications of Robotics 
+drilling, polishing, etc. 
+
+  Industries:  Robots  are  used  for  handling  material,  cutting,  welding,  color  coating, 
+  Military: Autonomous robots can reach inaccessible and hazardous zones during war. 
+A robot named Daksh, developed by Defense Research and Development Organization 
+  Medicine:  The  robots  are  capable  of  carrying  out  hundreds  of  clinical  tests 
+simultaneously,  rehabilitating permanently disabled people, and  performing complex 
+
+forensics, security, and surveillance 
+industrial quality inspection 
+surgeries such as brain tumors. 
+
+(DRDO), is in function to destroy life-threatening objects safely. 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+ 
+
+  Exploration: The robot rock climbers used for space exploration, underwater drones 
+  Entertainment:  Disney’s  engineers  have  created  hundreds  of  robots  for  movie 
+
+ 
+
+making. 
+
+used for ocean exploration are to name a few. 
+
+ 
+
+ 
+
+  
+ 
+
+
+figure 53_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Basic Structure of ANNs 
+
+What are Artificial Neural Networks (ANNs)? 
+
+Yet another research area in AI, neural networks, is inspired from the natural neural network 
+of human nervous system.  
+The inventor of the first neurocomputer, Dr. Robert Hecht-Nielsen, defines a neural network 
+as: 
+"...a computing system made up of a number of simple, highly interconnected processing 
+elements,  which  process  information  by  their  dynamic  state  response  to  external 
+inputs.” 
+The  idea  of  ANNs  is  based  on  the  belief  that  working  of  human  brain  by  making  the  right 
+connections, can be imitated using silicon and wires as living neurons and dendrites. 
+The human brain is composed of 100 billion nerve cells called neurons. They are connected 
+to other thousand cells by Axons. Stimuli from external environment or inputs from sensory 
+organs are accepted by dendrites. These inputs create electric impulses, which quickly travel 
+through the neural network. A neuron can then send the message to other neuron to handle 
+the issue or does not send it forward. 
+ANNs are composed of multiple nodes, which imitate biological neurons of human brain. The 
+neurons are connected by links and they interact with each other. The nodes can take input 
+
+10. Neural Networks 
+
+ 
+
+  
+ 
+ 
+
+
+figure 54_2 Artificial_intelligence_1_tutorial
+figure 54_3 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Types of Artificial Neural Networks 
+
+data and perform simple operations on the data. The result of these operations is passed to 
+other neurons. The output at each node is called its activation or node value. 
+Each  link  is  associated  with  weight.  ANNs  are  capable  of  learning,  which  takes  place  by 
+altering weight values. The following illustration shows a simple ANN: 
+There are two Artificial Neural Network topologies: FeedForward and Feedback. 
+FeedForward ANN 
+In this ANN, the information flow is unidirectional. A unit sends information to other unit from 
+which  it  does  not  receive  any  information.  There  are  no  feedback  loops.  They  are  used  in 
+pattern generation/recognition/classification. They have fixed inputs and outputs. 
+Feedback ANN 
+Here, feedback loops are allowed. They are used in content addressable memories. 
+
+ 
+
+ 
+ 
+
+  
+ 
+ 
+
+
+figure 55_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Working of ANNs  
+
+Machine Learning in ANNs 
+
+In the topology diagrams shown, each arrow represents a connection between two neurons 
+and indicates the pathway for the flow of information. Each connection has a weight, an integer 
+number that controls the signal between the two neurons.  
+If the network generates a “good or desired” output, there is no need to adjust the weights. 
+However, if the network generates a “poor or undesired” output or an error, then the system 
+alters the weights in order to improve subsequent results. 
+ANNs  are  capable  of  learning  and  they  need  to  be  trained.  There  are  several  learning 
+strategies: 
+
+  Supervised Learning: It involves a teacher that is scholar than the ANN itself. For 
+example, the teacher feeds some example data about which the teacher already knows 
+For example, pattern recognizing. The ANN comes up with guesses while recognizing. 
+Then the teacher provides the ANN with the answers. The network then compares it 
+guesses  with  the  teacher’s  “correct”  answers  and  makes  adjustments  according  to 
+  Unsupervised Learning: It is required when there is no example data set with known 
+answers.  For  example,  searching  for  a  hidden  pattern.  In  this  case,  clustering  i.e. 
+dividing a set of elements into groups according to some unknown pattern is carried 
+
+the answers.  
+errors.  
+
+out based on the existing data sets present.  
+
+ 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+Bayesian Networks (BN) 
+
+1.  Range of prepositions 
+2.  Probability assigned to each of the prepositions. 
+
+  Reinforcement  Learning:  This  strategy  built  on  observation.  The  ANN  makes  a 
+decision  by  observing  its  environment.  If  the  observation  is  negative,  the  network 
+adjusts its weights to be able to make a different required decision the next time.  
+Back Propagation Algorithm 
+It is the training or learning algorithm. It learns by example. If you submit to the algorithm 
+the example of what you want the network to do, it changes the network’s weights so that it 
+can produce desired output for a particular input on finishing the training.  
+Back Propagation networks are ideal for simple Pattern Recognition and Mapping Tasks. 
+These are the graphical structures used to  represent the  probabilistic relationship among a 
+set of random variables. Bayesian networks are also called Belief Networks or Bayes Nets. 
+BNs reason about uncertain domain. 
+In  these  networks,  each  node  represents  a  random  variable  with  specific  propositions.  For 
+example, in a medical diagnosis domain, the node  Cancer represents the proposition that a 
+patient has cancer.  
+The edges connecting the nodes represent probabilistic dependencies among those random 
+variables. If out of two nodes, one is affecting the other then they must be directly connected 
+in the directions of the effect. The strength of the relationship between variables is quantified 
+by the probability associated with each node. 
+There is an only constraint on the arcs in  a BN that you cannot return to a node simply by 
+following directed arcs. Hence the BNs are called Directed Acyclic Graphs (DAGs). 
+BNs  are  capable  of  handling  multivalued  variables  simultaneously.  The  BN  variables  are 
+composed of two dimensions:  
+Consider a finite set X = {X1, X2, …,Xn} of discrete random variables, where each variable Xi 
+may  take  values  from  a  finite  set,  denoted  by Val(Xi).  If  there  is  a  directed  link  from 
+variable Xi to  variable,  Xj,  then  variable  Xi will  be  a  parent  of  variable Xj  showing  direct 
+dependencies between the variables.  
+The structure of BN is ideal for combining prior knowledge and observed data. BN can be used 
+to  learn  the  causal  relationships  and  understand  various  problem  domains  and  to  predict 
+future events, even in case of missing data. 
+Building a Bayesian Network 
+A  knowledge  engineer  can  build  a  Bayesian  network.  There  are  a  number  of  steps  the 
+knowledge engineer needs to take while building it. 
+
+ 
+
+  
+ 
+
+
+figure 57_2 Artificial_intelligence_1_tutorial
+
+
+ 
+ 
+
+Gather Relevant Information of Problem 
+Identify Interesting Variables 
+The knowledge engineer tries to answer the questions:  
+Common types of discrete nodes are:  
+Possible nodes and values for the lung cancer example: 
+
+Example problem: Lung cancer. A patient has been suffering from breathlessness. He visits 
+the doctor, suspecting he has lung cancer. The doctor knows that barring lung cancer, there 
+are various other possible diseases the patient might have such as tuberculosis and bronchitis.  
+For now let us consider nodes, with only discrete values. The variable must take on exactly 
+one of these values at a time.  
+Topology of the network should capture qualitative relationships between variables.  
+For example, what causes a patient to have lung cancer? - Pollution and smoking. Then add 
+arcs from node Pollution and node Smoker to node Lung-Cancer.  
+Similarly  if  patient  has  lung  cancer,  then  X-ray  result  will  be  positive.  Then  add  arcs  from 
+Lung-Cancer to X-Ray.  
+
+Node Name 
+Pollution 
+Smoker 
+Lung-Cancer 
+X-Ray 
+
+ 
+ 
+
+  Which nodes to represent?  
+Common types of discrete nodes are:  
+Create Arcs between Nodes 
+
+Is the patient a smoker? If yes, then high chances of cancer and bronchitis.  
+Is the patient exposed to air pollution? If yes, what sort of air pollution?  
+  Take an X-Ray positive X-ray would indicate either TB or lung cancer. 
+  What values can they take? In which state can they be?  
+• Boolean nodes: They represent propositions, taking binary values TRUE (T) and FALSE 
+(F).  
+• Ordered values: A node Pollution might represent and take values from {low, medium, 
+high} describing degree of a patient’s exposure to pollution.  
+• Integral values: A node called Age might represent patient’s age with possible values 
+from 1 to 120. Even at this early stage, modeling choices are being made.  
+
+Type 
+Binary 
+Boolean 
+Boolean 
+Binary 
+ 
+
+ 
+ 
+
+Value 
+{LOW, HIGH, MEDIUM} 
+{TRUE, FASLE} 
+{TRUE, FASLE} 
+{Positive, Negative} 
+ 
+ 
+
+  
+ 
+ 
+
+
+figure 58_2 Artificial_intelligence_1_tutorial
+
+
+ 
+
+Specify Topology 
+
+Conditional Probabilities  
+
+Each node will have conditional probability associated as follows: 
+
+Conventionally, BNs are laid out so that the arcs point from top to bottom. The set of parent 
+nodes of a node X is given by Parents(X). 
+The  Lung-Cancer  node  has  two  parents  (reasons  or  causes):    Pollution  and  Smoker,  while 
+node  Smoker  is  an  ancestor  of  node  X-Ray.  Similarly,  X-Ray  is  a  child  (consequence  or 
+effects) of node Lung-Cancer and successor of nodes Smoker and Pollution.  
+Now  quantify  the  relationships  between  connected  nodes:  this  is  done  by  specifying  a 
+conditional  probability  distribution  for  each  node.  As  only  discrete  variables  are  considered 
+here, this takes the form of a Conditional Probability Table (CPT).  
+First, for each node we need to look at all the possible combinations of values of those parent 
+nodes. Each such combination is called an instantiation of the parent set. For each distinct 
+instantiation of parent node values, we need to specify the probability that the child will take.  
+For  example,  the  Lung-Cancer  node’s  parents  are  Pollution  and  Smoking.  They  take  the 
+possible values = { (H,T), ( H,F), (L,T), (L,F)}. The CPT specifies the probability of cancer for 
+each of these cases as <0.05, 0.02, 0.03, 0.001> respectively. 
+
+ 
+
+  
+ 
+ 
+
+
+
+
+
+ 
+
+Applications of Neural Networks 
+
+They can perform tasks that are easy for a human but difficult for a machine: 
+
+  Aerospace: Autopilot aircrafts, aircraft fault detection.  
+  Automotive: Automobile guidance systems. 
+prediction, document readers, credit application evaluators. 
+maintenance analysis, project bidding, planning, and management.  
+
+  Military:  Weapon  steering,  target  tracking,  object  discrimination,  facial  recognition, 
+  Electronics: Code sequence prediction, IC chip layout, chip failure analysis, machine 
+  Financial:  Real  estate  appraisal,  loan  advisor,  mortgage  screening,  corporate  bond 
+rating,  portfolio  trading  program,  corporate  financial  analysis,  currency  value 
+  Industrial:  Manufacturing  process  control,  product  design  and  analysis,  quality 
+inspection  systems,  welding  quality  analysis,  paper  quality  prediction,    chemical 
+product  design  analysis,  dynamic  modeling  of  chemical  process  systems,  machine 
+maintenance analysis, project bidding, planning, and management.  
+
+signal/image identification. 
+vision, voice synthesis. 
+
+ 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+
+  Medical:  Cancer  cell  analysis,  EEG  and  ECG  analysis,  prosthetic  design,  transplant 
+  Speech: Speech recognition, speech classification, text to speech conversion. 
+  Telecommunications:  Image  and  data  compression,  automated  information 
+  Transportation: Truck brake diagnosis, vehicle scheduling, routing systems.  
+  Software: Pattern Recognition in facial recognition, optical character recognition, etc. 
+  Time Series Prediction: ANNs are used to make predictions on stocks and natural 
+  Signal Processing: Neural networks can be trained to process an audio signal and 
+  Control: ANNs are often used to make steering decisions of physical vehicles. 
+  Anomaly Detection: As ANNs are  expert at  recognizing patterns, they can also be 
+trained to generate an output when something unusual occurs that misfits the pattern.  
+
+time optimizer. 
+calamities. 
+
+services, real-time spoken language translation. 
+filter it appropriately in the hearing aids. 
+
+ 
+
+  
+ 
+
+
+
+
+ 
+ 
+
+AI  is  developing  with  such  an  incredible  speed,  sometimes  it  seems  magical.  There  is  an 
+opinion  among  researchers  and  developers  that  AI  could  grow  so  immensely  strong  that  it 
+would be difficult for humans to control.  
+Humans developed AI systems by introducing into them every possible intelligence they could, 
+for which the humans themselves now seem threatened.  
+Threat to Privacy 
+An  AI  program  that  recognizes  speech  and  understands  natural  language  is  theoretically 
+capable of understanding each conversation on e-mails and telephones. 
+Threat to Human Dignity 
+AI systems have already started replacing the human beings in few industries. It should not 
+replace people in the sectors where they are holding dignified positions which are pertaining 
+to ethics such as nursing, surgeon, judge, police officer, etc.  
+Threat to Safety 
+The self-improving AI systems can become so mighty than humans that could be very difficult 
+to stop from achieving their goals, which may lead to unintended consequences.  
+
+ 
+
+11. AI Issues 
+
+ 
+
+  
+ 
+

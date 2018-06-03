@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <title>Presentation Slides Generator</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+<nav class="teal" role="navigation">
+    <div class="nav-wrapper container">
+        <a id="logo-container" href="index.html" class="brand-logo white-text">Presentation Slides Generator</a>
+    </div>
+</nav>
+
+<div id="index-banner" class="parallax-container">
+    <div class="parallax"><img src="images/presentation-art-3.jpg" alt="Unsplashed background img 1"></div>
+</div>
+
+<div class="container">
+    <div class="section">
+        <form id="mainForm" action="process.php" method="post" enctype="multipart/form-data">
+            <div class="center row">
+                <div class="col s2">
+                    <input type="checkbox" name="resourceLinkChoosen" id="resourceLinkOrLocal" value=1 />
+                    <label for="resourceLinkOrLocal">Online Link for Resource</label>
+                </div>
+                <div id="resourceDiv" class="col s10 file-field input-field">
+                    <div id="resourceField">
+                        <div class="btn">
+                            <span>Resource File</span>
+                            <input id="resourceFile" name="resourceFile[]" type="file" multiple="multiple">
+                        </div>
+                        <div class="file-path-wrapper">
+                            <input class="file-path validate" type="text" placeholder="Click to select resource file">
+                        </div>
+                    </div>
+                </div>
+                <div class="input-field col s12 m6">
+                    <input name="archiveName" id="archiveName" value="slides-archive" type="text">
+                    <label for="archiveName">Name of output archive</label>
+                </div>
+                <div class="input-field col s12 m6">
+                    <input name="pagesSelected" placeholder="e.g.: 1-5(file_no.1);7-9,11-15(file_no.2)" id="pagesSelected" type="text">
+                    <label for="pagesSelected">Select pages you want Slides for</label>
+                </div>
+                <div class="input-field col s12 m4">
+                    <input name="mainSlideTitle" placeholder="e.g.: Operating Systems" id="mainSlideTitle" type="text">
+                    <label for="mainSlideTitle">Enter title for first slide</label>
+                </div>
+                <div class="input-field col s12 m4">
+                    <input name="mainSlideSubtitle" placeholder="e.g.: What is a Process?" id="mainSlideSubtitle"
+                           type="text">
+                    <label for="mainSlideSubtitle">Enter subtitle for first slide</label>
+                </div>
+                <div class="input-field col s12 m4">
+                    <input name="footerText" placeholder="e.g.: Computer Dept.,AISSMS COE " id="footerText" type="text">
+                    <label for="footerText">Enter footer for your slides</label>
+                </div>
+                <div class="col s2">
+                    <input type="checkbox" name="logoLinkChoosen" id="logoLinkOrLocal" value=1 />
+                    <label for="logoLinkOrLocal">Online Link for Logo</label>
+                </div>
+                <div id="logoDiv" class="col s10 file-field input-field">
+                    <div id="logoField">
+                        <div class="btn">
+                            <span>Logo</span>
+                            <input name="logoFile" id="logoFile" type="file">
+                        </div>
+                        <div class="file-path-wrapper">
+                            <input class="file-path validate" type="text" placeholder="Click to select logo">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="center">
+                <button class="btn blue waves-effect waves-light" type="submit" name="action">
+                    Submit
+                    <i class="material-icons right">send</i>
+                </button>
+            </div>
+        </form>
+    </div>
+    <div class="divider"></div>
+    <br>
+    <div class="divider"></div>
+    <div class="section">
+
+        <!--   Icon Section   -->
+        <div class="row">
+            <div class="col s12 m4 l3 hoverable">
+                <div class="icon-block">
+                    <h2 class="center brown-text">
+                        <a id="uploadPhaseButton" class="btn btn-floating btn-large brown">
+                            <i id="uploadPhaseIcon" class="material-icons">attachment</i>
+                        </a>
+                    </h2>
+                    <h5 class="center">Upload Resource File</h5>
+                    <img src="images/upload.png" alt="File Icon" class="responsive-img">
+                    <p class="light">Attach your resource file in the form.</p>
+                </div>
+            </div>
+
+            <div class="valign-wrapper col l1 hide-on-mid-and-down">
+                <h1 class="valign"><i class="medium material-icons">forward</i></h1>
+            </div>
+
+            <div class="col s12 m4 l4 hoverable">
+                <div class="icon-block">
+                    <h2 class="center"><a id="processingMainButton" class="btn btn-floating btn-large brown"><i
+                            id="processingMainIcon" class="material-icons">cloud_circle</i></a></h2>
+                    <h5 class="center">Process Data</h5>
+                    <table class="responsive-table striped">
+                        <tbody>
+                        <tr id="st1">
+                            <td>Extract Data</td>
+                            <td class="right icon-block">
+                                <h4><i id="st1Icon" class="material-icons">find_in_page</i></h4>
+                            </td>
+                        </tr>
+                        <tr id="st2">
+                            <td>Generate Important Data</td>
+                            <td class="right icon-block">
+                                <h4><i id="st2Icon" class="material-icons">low_priority</i></h4>
+                            </td>
+                        </tr>
+                        <tr id="st3">
+                            <td>Presentation Slides</td>
+                            <td class="right icon-block">
+                                <h4><i id="st3Icon" class="material-icons">view_day</i></h4>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="valign-wrapper col l1 hide-on-mid-and-down">
+                <h1 class="valign"><i class="medium material-icons">forward</i></h1>
+            </div>
+
+            <div class="col s12 m4 l3 hoverable">
+                <div class="icon-block">
+                    <h2 class="center brown-text"><a id="downloadPhaseButton"
+                                                     class="btn btn-floating btn-large brown"><i id="downloadPhaseIcon"
+                                                                                                 class="material-icons">cloud_done</i></a>
+                    </h2>
+                    <h5 class="center">Download Files</h5>
+                    <img src="images/zip.ico" alt="Archive Icon" class="responsive-img">
+                    <p class="light">
+                        You then download the archive with all extracted images, important data if you find the need to
+                        add them to the slides, and yes, finally your presentation slides we would have generated!
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<footer class="page-footer teal">
+    <div>
+        <div class="row">
+            <div class="col s12 center">
+                <h5 class="white-text">About us</h5>
+                <p class="white-text">
+                    We are a team of college students working on this project for our final semester project.
+                    Any suggestions are gracefully accepted. Please fill the form and submit suggestions. Thanks.
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!--  Scripts-->
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/materialize.js"></script>
+<script src="js/init.js"></script>
+<script src="js/eventsource.js"></script>
+
+</body>
+</html>
+
